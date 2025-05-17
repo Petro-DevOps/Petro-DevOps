@@ -30,8 +30,8 @@ DevOps / Release Engineer\
   + Support Dev teams with deployment requests for Udeploy and\or OpenShift ECS platforms;
   + Support production releases and whole deployment process;
   + Support teams to troubleshoot and fix environment and build issues;
-  + Performing old snapshots cleanup, to avoid performance issues.\
-\
+  + Performing old snapshots cleanup, to avoid performance issues.
+
 September 2018 – June 2022\
 System Administrator\
 “Luxoft” company, Kiev, Ukraine:
@@ -39,8 +39,8 @@ System Administrator\
   + Implement Jira Service Desk service, for internal project-only use with SSL\https security level and with project domain authentication;
   + Administrating and support internal project infrastructure, configure VMs for colleagues, support VMware server, hyper-v cluster server, SCVMM administrating and support project Windows\Linux servers;
   + Troubleshooting network issues in complex network design, between local project side and customer side;
-  + Update internal knowledge base (Atlassian Confluence) with useful articles.\
-\
+  + Update internal knowledge base (Atlassian Confluence) with useful articles.
+
 May 2018 – August 2018\
 Junior IT Support Engineer\
 “SoftServe” company, Kiev, Ukraine:
@@ -48,8 +48,8 @@ Junior IT Support Engineer\
   + Support of user's desktop applications;
   + Administrating, troubleshooting and supporting users onsite;
   + Install and configure workstation software as a part of hiring procedure or by individual user's request;
-  + Technical fault analysis and troubleshooting, detecting roots of problems and making decisions for resolving them. Cooperate with other directions if required to accomplish requests effectively and efficiently.\
-\
+  + Technical fault analysis and troubleshooting, detecting roots of problems and making decisions for resolving them. Cooperate with other directions if required to accomplish requests effectively and efficiently.
+
 June 2015 – April 2018\
 System Administrator\
 “Netbox” company, Kiev, Ukraine:
@@ -58,25 +58,25 @@ System Administrator\
   + Administrating Windows servers;
   + Set up and configure Wi-Fi and LAN network;
   + Administrating and configuring UTM Fortinet Fortigate.  
-\
+
 June 2011 and June 2012\
 System Administrator Assistant\
 IT department of the “GroupM” company, Kiev, Ukraine:
   + Installed software on the virtual server: Apache, MySQL;
   + Arrangement company workplaces, according to the plan office in E-form;
-  + Monitoring and debugging of the computer systems.\
-\
+  + Monitoring and debugging of the computer systems.
+
 **EDUCATION**\
 September 2013 to June 2014\
 State University of Telecommunications, Kiev, Ukraine:
-\
+
 Master’s degree in computer engineering\
-Graduation thesis topic: Creation electronic help system at the exchange rate of discipline "Programming".\
-\
+Graduation thesis topic: Creation electronic help system at the exchange rate of discipline "Programming".
+
 September 2009 to June 2013\
-State University of Information and Communication Technologies, Kiev, Ukraine:
-Bachelor’s degree in computer engineering\
-\
+State University of Information and Communication Technologies, Kiev, Ukraine:\
+Bachelor’s degree in computer engineering
+
 **REFERENCES**\
 Available upon request
 
