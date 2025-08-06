@@ -1,6 +1,6 @@
 <h2 align="center">Petro Zadorozhnyy</h2>
 <h3 align="center">Kyiv, Ukraine</h3>
-<h3 align="center"><a href="https://www.linkedin.com/in/petro-zadorozhniy-9a813ba2">Linkedin Profile</a></h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/petro-zadorozhniy-9a813ba2" target="_blank">Linkedin Profile</a></h3>
 
 **QUALIFICATIONS**
   + Work with SOHO-class and Enterprise-class IT systems;
